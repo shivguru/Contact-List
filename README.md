@@ -5,9 +5,9 @@ act as if they had just been pressed. When sending a message to one of her conta
 enters the name of the contact into a searchbox. If the name matches exactly, she can
 send the message with just another click. However, now that her screen is cracked, this
 means that sometimes her phone already sends the message to "Bob", while Lea meant
-for it to be sent to "Bobby", which are totally dierent people. This has embarassed Lea
+for it to be sent to "Bobby", which are totally different people. This has embarassed Lea
 quite a few times now, so she wants to rename some of her contacts such that no contact
-is a prex of another one. Can you tell her how many contacts she has to rename?
+is a prefix of another one. Can you tell her how many contacts she has to rename?
 <br />
 #Input
 The first line of the input contains an integer t. t test cases follow, each of them separated
